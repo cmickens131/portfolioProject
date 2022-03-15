@@ -1,0 +1,41 @@
+
+body {
+background-color: aqua;
+font-family: verdana;
+}
+h1{
+color: white;
+font-family: Helvetica;
+text-align: center;
+
+}
+p {
+font-size: 23px;
+}
+
+li {
+
+font-size: 23px;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: white;
+font-size: 23px;
+}
+
+h3{
+color: DarkSalmon;
+font-family: Helvetica;
+font-size: 23px;
+text-align: center;
+}
+
+figure {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
