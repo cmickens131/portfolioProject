@@ -9,7 +9,8 @@ font-family: Helvetica;
 text-align: center;
 
 }
-p {
+
+p.presentation {
 font-size: 23px;
 }
 
@@ -23,7 +24,7 @@ footer {
   padding: 3px;
   background-color: DarkSalmon;
   color: white;
-font-size: 23px;
+  font-size: 20px;
 }
 
 h3{
@@ -37,5 +38,11 @@ figure {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
+}
+
+p.navigation {
+  font-size: 20px;
+  color: purple;
   text-align: center;
 }
